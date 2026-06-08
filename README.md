@@ -116,13 +116,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvik1982&show_icons=true&theme=dracula&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvik1982&layout=compact&theme=dracula)
-
----
 
 ## 📬 Свяжитесь Со Мной
 
