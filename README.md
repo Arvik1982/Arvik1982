@@ -35,7 +35,7 @@ Frontend разработчик с **19+ лет в IT** и **2+ лет проф�
 - Интегрировал Firebase (Analytics, Crashlytics, Messaging) в мультифлейворную сборку (Google/Huawei), настроил Gradle-плагины и google-services.
 - Оптимизация кода, рефакторинг, исправление багов по обратной связи пользователей; работа с API-ошибками и локализацией.
 
-**Стек:**  React Native, TypeScript, React Query, Redux Toolkit, React Navigation, i18next, Firebase (Analytics, Crashlytics, Messaging), Gradle, Android/iOS.
+**Стек:**  React Native, TypeScript, React Query, Redux Toolkit, React Navigation, i18next, Firebase (Analytics, Crashlytics, Messaging), Gradle, Android (Kotlin/Java — на уровне интеграций), iOS (Swift/Obj-C — на уровне интеграций).
 
 ---
 
