@@ -1,86 +1,86 @@
-# Арсений Куликов
+# Arseniy Kulikov
 
-**Frontend разработчик | React | TypeScript | Modern Web**
-
----
-
-## 🎯 Обо Мне
-
-Frontend разработчик с **19+ лет в IT** и **2+ лет профессиональной разработки на React**. Работаю в коммерческих проектах с 2024 года.
-
-Специализируюсь на создании **быстрых, масштабируемых и удобных пользовательских интерфейсов** с использованием современного стека технологий.
-
-**Ключевые направления:**
-- 🚀 Разработка SPA приложений на React + Next.js
-- 📱 Кросс-платформенные мобильные приложения (React Native + Expo)
-- 🎨 Сложная верстка с соблюдением design-систем
-- ⚡ Оптимизация производительности и рефакторинг legacy-кода
+**Frontend Developer | React | TypeScript | Modern Web**
 
 ---
 
-## 💼 Опыт Работы
+## 🎯 About Me
 
-### React Native middle dev | НПО РИЭЛТА
-Июль 2026 — сейчас
+Frontend developer with **19+ years in IT** and **2+ years of professional React development**. I have been working on commercial projects since 2024.
 
-Разработка и сопровождение мобильного приложения «RiDom» на React Native (iOS, Android) для управления сайтом и контроллерами умного дома.
+I specialize in building **fast, scalable, and user-friendly interfaces** using modern technologies.
 
-- Сборка, подписание и публикация приложения в App Store и Google Play; ведение релизного цикла.
-- Настроил фронтенд-часть push-уведомлений на Firebase для iOS и Android.
-- Сопровождаю статистику крашей в Firebase Crashlytics: за 5 месяцев снизил количество падений на 80%.
-- Реализовал и доработал экраны автоматизаций: сценарии по расписанию, термостат/увлажнитель, режим охраны и ручные сценарии «ЕСЛИ → ТО» (сериализация/десериализация скриптов, валидация, работа с ошибками API).
-- Разработал экраны диагностики контроллера: статусы Wi-Fi, Ethernet, GSM (две SIM), радиомодуля, облака и мониторинга; разбор индикаций и сигналов, унификация логики статусов.
-- Работал с настройками Wi-Fi: список сохранённых и доступных сетей, подключение, удаление, переключение каналов связи (Wi-Fi/GSM/Ethernet).
-- Настроил экран добавления устройств: сопряжение с контроллером, обнаружение новых устройств, конфигурация (имя, комната, привязка keyfob к пользователю), обработка таймаутов и лимитов.
-- Интегрировал Firebase (Analytics, Crashlytics, Messaging) в мультифлейворную сборку (Google/Huawei), настроил Gradle-плагины и google-services.
-- Оптимизация кода, рефакторинг, исправление багов по обратной связи пользователей; работа с API-ошибками и локализацией.
-
-**Стек:**  React Native, TypeScript, React Query, Redux Toolkit, React Navigation, i18next, Firebase (Analytics, Crashlytics, Messaging), Gradle, Android (Kotlin/Java — на уровне интеграций), iOS (Swift/Obj-C — на уровне интеграций).
+**Key areas:**
+- 🚀 Developing SPA applications with React + Next.js
+- 📱 Cross-platform mobile applications (React Native + Expo)
+- 🎨 Complex UI implementation following design systems
+- ⚡ Performance optimization and legacy code refactoring
 
 ---
 
-### React/React Native middle dev | ООО СмартТурбоТек
-**Октябрь 2024 — Январь 2026** • Санкт-Петербург
+## 💼 Work Experience
 
-**Ключевые проекты:**
-- ✅ Разработка кросс-платформенных мобильных приложений (iOS/Android) на React Native + Expo
-- ✅ SPA на React в едином монорепозитории (pnpm workspaces)
-- ✅ Интеграция платежной системы YooKassa, Supabase/Firebase
-- ✅ Работа с геолокацией и интерактивными картами (react-native-maps, GeoJSON)
-- ✅ Внедрение RTK Query для оптимизации работы с API
+### React Native Middle Developer | NPO RIELTA
+July 2026 — Present
 
-**Ключевые результаты:**
-- 🎯 Внедрил RTK Query, улучшив производительность на 40%
-- 🐛 Исправил критические баги с отображением гео-объектов на карте
-- 📦 Создал и поддерживал shared-пакеты и UI-библиотеку
+Development and maintenance of the “RiDom” mobile application in React Native (iOS, Android) for managing a home site and smart-home controllers.
 
-**Стек:** React, React Native, TypeScript, Redux Toolkit, RTK Query, Next.js, Expo Router, TanStack Query, Tailwind CSS, Styled Components
+- Building, signing, and publishing the application to the App Store and Google Play; managing the release cycle.
+- Set up the frontend part of push notifications using Firebase for iOS and Android.
+- Maintain crash statistics in Firebase Crashlytics: reduced the number of crashes by 80% over 5 months.
+- Implemented and improved automation screens: scheduled scenarios, thermostat/humidifier, security mode, and manual “IF → THEN” scenarios (script serialization/deserialization, validation, and API error handling).
+- Developed controller diagnostics screens: Wi-Fi, Ethernet, GSM (two SIM cards), radio module, cloud, and monitoring statuses; interpreting indicators and signals, and unifying status logic.
+- Worked with Wi-Fi settings: list of saved and available networks, connection, removal, and switching between communication channels (Wi-Fi/GSM/Ethernet).
+- Set up the device-add screen: pairing with the controller, discovering new devices, configuration (name, room, keyfob-user binding), and handling timeouts and limits.
+- Integrated Firebase (Analytics, Crashlytics, Messaging) into a multi-flavor build (Google/Huawei), configured Gradle plugins and google-services.
+- Code optimization, refactoring, bug fixing based on user feedback; working with API errors and localization.
 
----
-
-### React Разработчик | Antipoff Group
-**Март 2024 — Октябрь 2024** • Москва
-
-Разработка SPA приложения "Creative Hub" с адаптивной версткой по дизайн-макетам Figma, интеграцией REST API и оптимизацией производительности.
-
-**Стек:** React, Next.js, Redux, TypeScript, MUI Material, SCSS
+**Stack:** React Native, TypeScript, React Query, Redux Toolkit, React Navigation, i18next, Firebase (Analytics, Crashlytics, Messaging), Gradle, Android (Kotlin/Java — integration level), iOS (Swift/Obj-C — integration level).
 
 ---
 
-### Старший Специалист | Сбер (rabota.sber.ru)
-**Март 2006 — Февраль 2024** • Москва • 18 лет
+### React/React Native Middle Developer | SmartTurboTek LLC
+**October 2024 — January 2026** • Saint Petersburg
 
-Поддержка и развитие клиентской части крупных веб-приложений в высоконагруженной банковской среде, диагностика неисправностей, оптимизация UX.
+**Key projects:**
+- ✅ Development of cross-platform mobile applications (iOS/Android) with React Native + Expo
+- ✅ SPA development in React within a unified monorepository (pnpm workspaces)
+- ✅ Integration of the YooKassa payment system, Supabase/Firebase
+- ✅ Working with geolocation and interactive maps (react-native-maps, GeoJSON)
+- ✅ Implementation of RTK Query to optimize API interactions
+
+**Key results:**
+- 🎯 Implemented RTK Query, improving performance by 40%
+- 🐛 Fixed critical bugs related to displaying geo-objects on the map
+- 📦 Created and maintained shared packages and a UI library
+
+**Stack:** React, React Native, TypeScript, Redux Toolkit, RTK Query, Next.js, Expo Router, TanStack Query, Tailwind CSS, Styled Components
 
 ---
 
-## 🛠️ Технологический Стек
+### React Developer | Antipoff Group
+**March 2024 — October 2024** • Moscow
+
+Development of the “Creative Hub” SPA with responsive UI implementation based on Figma design mockups, REST API integration, and performance optimization.
+
+**Stack:** React, Next.js, Redux, TypeScript, MUI Material, SCSS
+
+---
+
+### Senior Specialist | Sber (rabota.sber.ru)
+**March 2006 — February 2024** • Moscow • 18 years
+
+Support and development of the client-side components of large-scale web applications in a high-load banking environment, troubleshooting, and UX optimization.
+
+---
+
+## 🛠️ Technology Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### State Management & Data Fetching
@@ -119,23 +119,23 @@ Frontend разработчик с **19+ лет в IT** и **2+ лет проф�
 
 ---
 
-## 🎓 Образование
+## 🎓 Education
 
-- **Frontend Разработчик** | Skypro (2023)
+- **Frontend Developer** | Skypro (2023)
 - **JavaScript + React** | T1 Academy (2025)
-- **Инженер** | СПбГЭТУ "ЛЭТИ" им. В.И. Ульянова (2006)
+- **Engineer** | Saint Petersburg State Electrotechnical University “LETI” named after V.I. Ulyanov (2006)
 
 ---
 
-## 🌐 Языки
+## 🌐 Languages
 
-- 🇷🇺 **Русский** — Родной
-- 🇬🇧 **Английский** — B2 (Средне-продвинутый)
+- 🇷🇺 **Russian** — Native
+- 🇬🇧 **English** — B2 (Upper-Intermediate)
 
 ---
 
 
-## 📬 Свяжитесь Со Мной
+## 📬 Contact Me
 
 <div align="center">
 
@@ -149,33 +149,33 @@ Frontend разработчик с **19+ лет в IT** и **2+ лет проф�
 
 ---
 
-## 💡 Что Я Делаю
+## 💡 What I Do
 
-- 🔨 Создаю масштабируемые веб-приложения с современным стеком
-- 📚 Постоянно учусь и изучаю новые технологии
-- 🤝 Готов к сотрудничеству и open source проектам
-- 🎯 Фокусирую на качестве кода и оптимизации производительности
+- 🔨 Build scalable web applications with a modern tech stack
+- 📚 Keep learning and exploring new technologies
+- 🤝 Open to collaboration and open-source projects
+- 🎯 Focus on code quality and performance optimization
 
 ---
 
-## 📌 Интересы
+## 📌 Interests
 
-- React & React Native экосистема
-- Производительность приложений
+- React & React Native ecosystem
+- Application performance
 - Clean Code & Best Practices
-- Современные паттерны разработки
-- Open Source проекты
+- Modern development patterns
+- Open-source projects
 
 ---
 
 <div align="center">
 
-### 💬 "Ответственный специалист, ориентированный на создание быстрых и удобных пользовательских интерфейсов"
+### 💬 “A dedicated specialist focused on creating fast and user-friendly interfaces”
 
-**Готов к полной занятости в Санкт-Петербурге, Москве или удалённой работе** 🚀
+**Available for full-time positions in Saint Petersburg, Moscow, or remote work** 🚀
 
 </div>
 
 ---
 
-*Последнее обновление: 8 июня 2026*
+*Last updated: June 8, 2026*
