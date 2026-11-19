@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-Frontend developer with **19+ years in IT** and ** 3 years of professional React development**. I have been working on commercial projects since 2024.
+Frontend developer with **19+ years in IT** and **3 years of professional React development**. I have been working on commercial projects since 2024.
 
 I specialize in building **fast, scalable, and user-friendly interfaces** using modern technologies.
 
